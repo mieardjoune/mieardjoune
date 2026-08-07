@@ -33,7 +33,7 @@
 
 ## Elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-ihab-eddine-ardjoune-752519385/)
+- [LinkedIn](https://www.linkedin.com/in/mieardjoune/)
 - [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=ard.iheb@gmail.com)
 - [ORCID](https://orcid.org/0009-0009-3767-3632)
 
@@ -49,4 +49,9 @@
 
 - NIST P-256 Elliptic Curve Cryptography Scalar Multiplication
 - Constant-time Montgomery ladder
-- AXI4-Lite wrapped FPGA accelerator in Kria K26 
+- AXI4-Lite wrapped FPGA accelerator in Kria K26
+
+### Post-Quantum Cryptography: ML-KEM NTT Accelerator (FIPS 203)
+- Forward NTT, inverse NTT, and pointwise multiplication cores to accelerate polynomial arithmetic for NIST’s FIPS 203 (ML-KEM / CRYSTALS-Kyber) standard.
+- Incomplete 7-layer NTT with bit-reversed twiddle addressing.
+- Integrated a dedicated memory sequencer and custom Montgomery reduction multiplier.

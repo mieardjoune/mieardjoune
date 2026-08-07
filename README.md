@@ -51,7 +51,7 @@
 - Constant-time Montgomery ladder
 - AXI4-Lite wrapped FPGA accelerator in Kria K26
 
-### Post-Quantum Cryptography: ML-KEM NTT Accelerator (FIPS 203)
+### ntt-hardware-accelerator-mlkem
 - Forward NTT, inverse NTT, and pointwise multiplication cores to accelerate polynomial arithmetic for NIST’s FIPS 203 (ML-KEM / CRYSTALS-Kyber) standard.
 - Incomplete 7-layer NTT with bit-reversed twiddle addressing.
 - Integrated a dedicated memory sequencer and custom Montgomery reduction multiplier.

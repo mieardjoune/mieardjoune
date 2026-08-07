@@ -30,6 +30,7 @@
 
 - ECC Hardware Accelerator over NIST B-233
 - ECC Hardware Accelerator over NIST P-256
+- AXI4-Lite wrapped ML-KEM NTT Accelerator (FIPS 203)
 
 ## Elsewhere
 
